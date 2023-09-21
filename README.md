@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**hub2023git/hub2023git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently working on an projects based on Android skill set like Android, Kotlin, Android TV, Leanback, MVVM, Corutines, AndroidX, Jetpack Components, Compose, KMM, Android System apis etc. This is being now around 5 years of wonderful journey with Android.
 
-Here are some ideas to get you started:
+Curently learning on new aspects of android and kotlin, with some social skills and sharing of my knowledge through youtube and github.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am open to collaborate on all projects, to share and gain knowledge from this community for everyone's better growth.
+
+Feel free to connect or ask me about android or kotlin. Please reach out to me on my mail id:- git2023hub@gmail.com
+
+Fun Facts:- Keep Guessing 🤔
+
+Please do check my channels and feel free to share on which topic you want a video about.
+
+Youtube Channel:- [Android](https://www.youtube.com/channel/UCx6vz9h_bcSv0eU_gJWrbCA), [Kotlin](https://www.youtube.com/channel/UCR4CHb8_nkdrMWFYw5cxyHA)
