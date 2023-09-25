@@ -12,4 +12,4 @@ Fun Facts:- Keep Guessing 🤔
 
 Please do check my channels and feel free to share on which topic you want a video about.
 
-Youtube Channel:- [Android](https://www.youtube.com/channel/UCx6vz9h_bcSv0eU_gJWrbCA), [Kotlin](https://www.youtube.com/channel/UCR4CHb8_nkdrMWFYw5cxyHA)
+Youtube Channel:- [Android](https://www.youtube.com/channel/UCx6vz9h_bcSv0eU_gJWrbCA), [Kotlin](https://www.youtube.com/channel/UCVkFUU1KbBSuaG5X21eZIqQ)
