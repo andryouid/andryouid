@@ -6,7 +6,7 @@ Curently learning on new aspects of android and kotlin, with some social skills 
 
 I am open to collaborate on all projects, to share and gain knowledge from this community for everyone's better growth.
 
-Feel free to connect or ask me about android or kotlin. Please reach out to me on my mail id:- git2023hub@gmail.com
+Feel free to connect or ask me about android or kotlin. Please reach out to me on my mail id:- andryouoid@gmail.com
 
 Fun Facts:- Keep Guessing 🤔
 
